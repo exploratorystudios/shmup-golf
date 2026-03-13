@@ -9,6 +9,7 @@ it's a horizontal shoot-em-up compressed into 7 lines of Python. no semicolons. 
 `shmupgolf_unobfuscated.py` is in this repo. that's the one you read. the compressed version is for looking at. you look at it. you feel something. you close it.
 
 ---
+You can also play on this website: https://shmupgolf.fly.dev/
 
 ## Running It
 
